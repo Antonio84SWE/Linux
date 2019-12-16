@@ -1,0 +1,17 @@
+      2 squeak
+      2 scream
+      2 grunt
+      2 bark
+      1 snort
+      1 sing
+      1 quack
+      1 laugh
+      1 hum
+      1 howl
+      1 grunt
+      1 growl
+      1 gibber
+      1 croak
+      1 caw
+      1 bleat
+      1 bell
